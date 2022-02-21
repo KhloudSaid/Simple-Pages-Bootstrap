@@ -1,0 +1,64 @@
+.pur{
+    color: white;
+    font-size: 20PX;
+    padding-top: 5PX ;
+    padding-left: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-nav{
+    font-family: 'Merriweather', serif;
+}
+.mob{
+    font-family: 'Merriweather', serif;
+}
+.flex-1{
+    text-align: center;
+}
+.span1{
+    font-size: 80px;
+    color: blue;
+    font-weight: bold;
+}
+.span2{
+    font-size: 80px;
+    color:cornflowerblue;
+    font-weight: bold;
+
+}
+.icon1{
+    padding-top: 5px;
+    color: white;
+    font-size: 100px;
+}
+h6 , h1{
+    padding-top: 10px;
+    color: white;
+    font-size: 5px;
+}
+p{
+    text-align:center;
+    color: white;
+}
+.containertextbox{
+    margin: 55px;
+}
+.hostoplans{
+    padding: 30px;
+}
+.keys{
+    position:absolute;
+}
+.feat{
+    padding: 5px;
+    position: relative;
+    left: 220px;
+    top: -20px;
+}
+.img{
+    margin-left: 70px;
+    margin-bottom: -15px;
+    padding-right: -200px;
+}
+.icon2{
+    color: aqua;
+}
